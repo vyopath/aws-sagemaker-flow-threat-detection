@@ -1,4 +1,8 @@
-# aws-sagemaker-flow-threat-detection
+<img align="right" width="50"  src="./images/vyopath-logo.png">
+<br />
+<br />
+
+# Flow Threat Detection
 
 **Flow Threat Detection** is a Machine-Learning-based Network Intrusion Detection System (NIDS) meant to be used in NetFlow V5 traffic.
 
